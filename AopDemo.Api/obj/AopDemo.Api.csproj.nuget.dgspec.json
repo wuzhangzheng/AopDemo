@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj": {}
+    "d:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj": {}
   },
   "projects": {
-    "D:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj": {
+    "d:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj",
+        "projectUniqueName": "d:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj",
         "projectName": "AopDemo.Api",
-        "projectPath": "D:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj",
+        "projectPath": "d:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\AopDemo\\AopDemo.Api\\obj\\",
+        "outputPath": "d:\\Courses\\AopDemo\\AopDemo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
