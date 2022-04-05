@@ -1,3 +1,4 @@
+using AopDemo.Api.Filters;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AopDemo.Api.Controllers;
@@ -19,6 +20,7 @@ public class WeatherForecastController : ControllerBase
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
+    [CtmActionFilterOnAction]
     public IEnumerable<WeatherForecast> Get()
     {
         return Enumerable.Range(1, 5).Select(index => new WeatherForecast
