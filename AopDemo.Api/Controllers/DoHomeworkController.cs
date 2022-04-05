@@ -5,11 +5,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using AopDemo.Api.Filters;
+using AopDemo.Api.CtmFilter;
 
 namespace AopDemo.Api.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [CtmActionFilterOnClass]
     public class DoHomeworkController : ControllerBase
     {
         [HttpGet]
