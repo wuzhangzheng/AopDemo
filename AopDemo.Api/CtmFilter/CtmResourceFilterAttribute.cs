@@ -10,12 +10,12 @@ namespace AopDemo.Api.CtmFilter
     {
         public void OnResourceExecuted(ResourceExecutedContext context)
         {
-            throw new NotImplementedException();
+            System.Console.WriteLine("OK");
         }
 
         public void OnResourceExecuting(ResourceExecutingContext context)
         {
-            throw new NotImplementedException();
+            System.Console.WriteLine("OK");
         }
     }
 }

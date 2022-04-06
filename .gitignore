@@ -1,1 +1,3 @@
-/obj/
+AopDemo.Api/obj/*
+AopDemo.Api/bin/*
+AopDemo.Api
