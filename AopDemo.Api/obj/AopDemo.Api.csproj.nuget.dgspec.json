@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj": {}
+    "d:\\Study\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj": {}
   },
   "projects": {
-    "D:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj": {
+    "d:\\Study\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj",
+        "projectUniqueName": "d:\\Study\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj",
         "projectName": "AopDemo.Api",
-        "projectPath": "D:\\Courses\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "D:\\Courses\\AopDemo\\AopDemo.Api\\obj\\",
+        "projectPath": "d:\\Study\\AopDemo\\AopDemo.Api\\AopDemo.Api.csproj",
+        "packagesPath": "C:\\Users\\RK-WZZ\\.nuget\\packages\\",
+        "outputPath": "d:\\Study\\AopDemo\\AopDemo.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\RK-WZZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
