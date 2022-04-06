@@ -1,2 +1,3 @@
-AopDemo.Api/obj/*
-AopDemo.Api/bin/*
+AopDemo.Api/obj/*.*
+AopDemo.Api/bin/*.*
+*.txt
