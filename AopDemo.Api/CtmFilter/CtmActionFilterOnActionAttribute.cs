@@ -15,7 +15,7 @@ namespace AopDemo.Api.Filters
 
         public void OnActionExecuting(ActionExecutingContext context)
         {
-            System.Console.WriteLine("CtmActionFilterOnActionExecuting");
+            System.Console.WriteLine("CtmActionFilterOnActionExecuting");       
         }
     }
 }

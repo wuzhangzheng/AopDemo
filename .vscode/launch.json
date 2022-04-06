@@ -8,7 +8,7 @@
             "name": ".NET Core Launch (web)",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "watch",
+            "preLaunchTask": "build",
             "program": "${workspaceFolder}/AopDemo.Api/bin/Debug/net6.0/AopDemo.Api.dll",
             "args": [],
             "cwd": "${workspaceFolder}/AopDemo.Api",

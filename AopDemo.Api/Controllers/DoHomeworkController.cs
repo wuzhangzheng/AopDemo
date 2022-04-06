@@ -16,6 +16,8 @@ namespace AopDemo.Api.Controllers
     {
         [HttpGet]
         [CtmActionFilterOnAction]
+        [CtmAuthorizationFilter]
+        [CtmResourceFilter]
         public void DoHomework(string time)
         {
            var car=BuyTicket(time);
