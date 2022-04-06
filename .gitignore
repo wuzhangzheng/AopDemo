@@ -1,3 +1,5 @@
-AopDemo.Api/obj/*.*
-AopDemo.Api/bin/*.*
+CtmFilter/
 *.txt
+AopDemo.Api/*.txt
+bin/*
+obj/*
