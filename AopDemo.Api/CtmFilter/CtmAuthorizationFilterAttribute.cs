@@ -10,7 +10,7 @@ namespace AopDemo.Api.CtmFilter
     {
         public void OnAuthorization(AuthorizationFilterContext context)
         {
-            System.Console.WriteLine("OnAuthorization");
+            System.Console.WriteLine("OnAuthorization2");
         }
     }
 }
