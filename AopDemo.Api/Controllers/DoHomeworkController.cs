@@ -15,7 +15,7 @@ namespace AopDemo.Api.Controllers
     public class DoHomeworkController : ControllerBase
     {
         [HttpGet]
-        [CtmActionFilterOnAction]
+        [TypeFilter(typeof(CtmActionFilterOnActionAttribute))]
         [CtmAuthorizationFilter]
         [CtmResourceFilter]
         public void DoHomework(string time)
