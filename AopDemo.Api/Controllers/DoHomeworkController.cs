@@ -25,6 +25,7 @@ namespace AopDemo.Api.Controllers
            if(cango)
            {
                 GetInCar();
+                
            }
         }
 
